@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mediarouter">
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/Android/android-sdk/extras/android/support/v7/mediarouter" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files (x86)/Android/android-sdk/extras/android/support/v7/mediarouter/gen" />
+    </SOURCES>
+  </library>
+</component>
